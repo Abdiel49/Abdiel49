@@ -11,4 +11,8 @@
 
 ### Proyectos Universitarios
 
+
 ## Sobre mi:
+Estudio la carrera de **Ing. Informatica** entre mis intereses estan en desarrollo Web Frontend con ganas de aprender backend, aplicaciones moviles, IoT, seguridad informatica.
+Participe en eventos tales como _CCBOL Pando 2018_, hackathons, ferias tecnologicas.
+ 
