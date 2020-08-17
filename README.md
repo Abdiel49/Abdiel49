@@ -18,8 +18,7 @@
 ![Login Patitas](./img/projects/grupal/patitas/login.jpg) | ![registro](img/projects/grupal/patitas/registro.jpg) | ![adopciones](./img/projects/grupal/patitas/adopciones.jpg) | ![extrabios](img/projects/grupal/patitas/denuncias.jpg)
 --- | --- | --- | ---
 
-![extrabios](img/projects/grupal/patitas/denuncias.jpg)
-
+![Adopciones](https://github.com/Abdiel49/Abdiel49/blob/master/img/projects/grupal/patitas/adopciones.jpg?raw=true)
 * **Emerbag.** Surgio como una propuesta de solucion para.. que se presento en una **Hackathon de NASA Space Apps Cochabamba - Bolivia 2018**  
 
 ***
