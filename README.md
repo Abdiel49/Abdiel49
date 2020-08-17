@@ -15,10 +15,10 @@
 * **MEOW - "Patitas":** Fue un proyecto realizado con unos amigos que se presentaria en en evento de **CCBOL Pando - Bolivia 2018**, en el cual logramos en el primer lugar.
 	La aplicacion tenia una similitud a una red social enfocado a la adopcion de mascotas, tambien en la ayuda entre la comunidad se puedan dar avisos de extravios de mascotas.
 
-![Login Patitas](./img/projects/grupal/patitas/login.jpg) | ![registro](img/projects/grupal/patitas/registro.jpg) | ![adopciones](./img/projects/grupal/patitas/adopciones.jpg) | ![](img/projects/grupal/patitas/denuncias.jpg)
+![Login Patitas](./img/projects/grupal/patitas/login.jpg) | ![registro](img/projects/grupal/patitas/registro.jpg) | ![adopciones](./img/projects/grupal/patitas/adopciones.jpg) | ![extrabios](img/projects/grupal/patitas/denuncias.jpg)
 --- | --- | --- | ---
 
-![](img/projects/grupal/patitas/denuncias.jpg)
+![extrabios](img/projects/grupal/patitas/denuncias.jpg)
 
 * **Emerbag.** Surgio como una propuesta de solucion para.. que se presento en una **Hackathon de NASA Space Apps Cochabamba - Bolivia 2018**  
 
