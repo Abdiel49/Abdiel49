@@ -47,26 +47,13 @@
 ### Proyectos De Cursos en linea
 
 * **Platzi Badges**
+  Curso de ReactJS
+
 * **Javascript - Platzi**
-* **CRUD ModeJS - MongoDB**
-* **NodeJS**
-
-***
-
-### Proyectos Universitarios
-
-* **Paint - Graficacion por Computadora**
-* **Gelatinas - SIS 2**
-* **Farmacia - SIS 2**
-* **Elementos de Programacion y Estructuras de datos**
-* **Busca Minas - Taller de Programacion**
-* **Grafos**
-* **Arquitectura de Computadores 2**
-* **Taller de Sistemas operativos**
+  Curso basico de Javascript
 
 ***
 
 ## Sobre mi:
 Estudio la carrera de **Ing. Informatica** entre mis intereses estan en desarrollo Web Frontend con ganas de aprender backend, aplicaciones moviles, IoT, seguridad informatica.
 Participe en eventos tales como _CCBOL Pando 2018_, hackathons, ferias tecnologicas.
-
