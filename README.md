@@ -4,10 +4,6 @@
 
 > Disculpa si en ocaciones lees palabras que deberian ir con **ñ** o acentuadas, al usar una distribucion de teclado en ingles y el S.O. GNU/Linux se complica, asi que sera comun, tratare que sea lo menos posible, que veas palabras como: `"anio"` y sin acentos XD, etc.
 
-## Posts
-
-> Recien comenzare a publicar algunos posts por lo que de momento no hay nada o muy poco, paciencia.
-
 ***
 ## Proyectos
 > No todos los proyectos se encuentran en GitHub, una gran mayoria estan en **GitLab** y en su mayoria entan como poryectos privados 
