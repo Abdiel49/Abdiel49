@@ -1,44 +1,75 @@
-# Hi, I'm Abdiel 👋 
+<h1 align="center">Hi, I'm Abdiel 👋 </h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
+
+<p align="left">
+I am a software developer with a focus on web and mobile applications.</br>
+Expert in React, React Native and Node.js (Express/Nest.js).</br>
+I have led successful projects, built robust APIs and managed databases with PostgreSQL and MongoDB.</br>
+My passion for development and communication skills drive me to excel in challenging environments.</br>
+I seek opportunities that challenge my expertise and allow me to contribute to the success of innovative projects.&nbsp;
+</p>
+
+</br>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Informatics Engineering at the San Simon University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🌱 I am in the process of learning more about Clean Architecture, Web3, UI/UX and Cloud Architecture.
+✍️ In my spare time I'm into Internet of Things and I'm starting with Blog Writing as hobbies/side activities.
 ✉️ &nbsp;You can shoot me an email at abdielorellana3@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/Abdiel49/Abdiel49/blob/develop/files/AbdielOrellana-cv-drv.pdf) for more details about me. I'm open to feedback and suggestions!
+
+----
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
+#### Frontend development:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestJS)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=FFA518)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=FFA518)&nbsp;
-![Testting Library](https://img.shields.io/badge/-Testting_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
 
+#### Backend development:
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestJS)&nbsp;
+
+<!-- &emsp; -->
+#### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Realm](https://img.shields.io/badge/-RealmDB-000?&logo=MongoDB)
+
+### Programming languages:
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+
+#### Misc tools:
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Testting Library](https://img.shields.io/badge/-Testting_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+ 
+
+----
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -48,6 +79,7 @@
   </a>
 </p>
 
+----
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
