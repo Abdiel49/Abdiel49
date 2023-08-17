@@ -25,8 +25,8 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 </p>
 
 ----
-
-<img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/> -->
 
 ## 🛠 &nbsp;Tech Stack
 
