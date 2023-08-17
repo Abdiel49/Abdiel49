@@ -26,7 +26,7 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 
 ----
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -48,6 +48,7 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)&nbsp;
 ![Realm](https://img.shields.io/badge/-RealmDB-000?&logo=MongoDB)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)&nbsp;
 
 ### Programming languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -60,6 +61,9 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=googlecloud)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Digital Ocean](https://img.shields.io/badge/-Digital%20ocean-05122A?style=flat&logo=digitalocean)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000?&logo=Docker)&nbsp;
