@@ -48,14 +48,17 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 
 ### Backend development:
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestJS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm.io)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=Sequelize)&nbsp;
 ![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-05122A?style=flat&logo=mongoose)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000?&logo=Docker)&nbsp;
 
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)&nbsp;
@@ -83,8 +86,6 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20ocean-05122A?style=flat&logo=digitalocean)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
-![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000?&logo=Docker)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)&nbsp;
