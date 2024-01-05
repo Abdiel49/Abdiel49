@@ -14,7 +14,7 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 🌱 &nbsp;In the process of learning more about Clean Architecture, Web3, UI/UX and Cloud Architecture.\
 ✍️ &nbsp;In my spare time I'm into Internet of Things and I'm starting with Blog Writing as hobbies/side activities.\
 ✉️ &nbsp;You can shoot me an email at abdielorellana3@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/Abdiel49/Abdiel49/blob/develop/files/Abdiel-Orellana-cv.pdf) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1NxKV6lAU6GG8NwNSbsVK8NSuBWX6I1tY/view?usp=sharing" download>Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ## 🤝🏻 &nbsp;Connect with Me
 
