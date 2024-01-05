@@ -67,14 +67,17 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000?&logo=Docker)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)&nbsp;
-![Testting Library](https://img.shields.io/badge/-Testting_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+
+### QA & Testing
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)&nbsp;
+![Testting Library](https://img.shields.io/badge/-Testting_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)&nbsp;
  
 
 ----
