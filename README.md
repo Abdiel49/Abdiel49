@@ -17,7 +17,7 @@ Expert in React, React Native and Node.js (Express/Nest.js).</br>
 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1NxKV6lAU6GG8NwNSbsVK8NSuBWX6I1tY/view?usp=sharing" target="_blank">resume</a> for more details about me. I'm open to feedback and suggestions!
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gGBeyVEobAplcuUghgoMzZBhrbwRoxON/view?usp=sharing" target="_blank">See my resume here.</a>
+  <a href="https://drive.google.com/drive/folders/1odYHsboGBk7pVL0V68PgZQopk5ULsxhV?usp=sharing" target="_blank">See my resume here.</a>
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
